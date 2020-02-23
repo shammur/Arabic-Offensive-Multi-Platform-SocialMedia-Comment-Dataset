@@ -5,8 +5,8 @@
 This release includes annotated social media comment dataset with (not)offensive (OFF vs NOT_OFF) language tags for Arabic social media comments collected from three different online platforms: Twitter, Facebook and YouTube. The dataset is referred as Multi Platforms Offensive Language Dataset **(MPOLD)**.
 In addition to the offensive comments, the contents are manually annotated to analyse the distribution of hate speech (HS) and vulgar (but not hate) (V) content.
 
-The distribution of the dataset is presented below:
-![Platform wise distribution of offensive and not offensive labels](link-to-image)
+<!--The distribution of the dataset is presented below:
+![Platform wise distribution of offensive and not offensive labels](link-to-image)-->
 
 
 ## Annotation Guidelines and Procedure
@@ -76,4 +76,17 @@ pages 52–56.
 ```
 
 <!-- ## Fields present in the dataset -->
+
+While using the dataset, cite:
+
+
+```
+@inproceedings{chowdhury2020offensive,
+  title={A Multi-Platform Arabic News Comment Dataset for Offensive Language Detection},
+  author={Chowdhury, Shammur Absar  and Mubarak, Hamdy and Abdelali, Ahmed and Jung, Soon-gyo and Jansen, Bernard J and Salminen, Joni},
+  booktitle={Proceedings of the International Conference on Language Resources and Evaluation (LREC'20)},
+  year={2020}
+}
+```
+
 
