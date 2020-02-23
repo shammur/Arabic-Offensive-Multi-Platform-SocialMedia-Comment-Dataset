@@ -68,6 +68,7 @@ Mulki, H., Haddad, H., Ali, C. B., and Alshabani, H. (2019). L-hsab: A levantine
 ```
 
 * For additional cross-platform evaluation
+
 [Deleted Comments Dataset](http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx)
 ```
 Mubarak, H., Darwish, K., and Magdy, W. (2017). Abusive language detection on Arabic social media. In Proceedings of the First Workshop on Abusive Language Online,
