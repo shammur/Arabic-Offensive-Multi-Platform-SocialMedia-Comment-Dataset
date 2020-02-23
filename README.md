@@ -56,19 +56,19 @@ In addition to the dataset mentioned in the above paper, we also studied the use
 The resources used in the study are:
 * For out-of-domain evaluation
 
-..*[Egyptian Arabic dialect data](http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx)
+[Egyptian Arabic dialect data](http://alt.qcri.org/~hmubarak/offensive/TweetClassification-Summary.xlsx)
 ```
 Mubarak, H., Darwish, K., and Magdy, W. (2017). Abusive language detection on Arabic social media. In Proceedings of the First Workshop on Abusive Language Online,
 pages 52–56.
 ```
 
-..*[Levantine Hate Speech and Abusive (L-HSAB) dataset](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)
+[Levantine Hate Speech and Abusive (L-HSAB) dataset](https://github.com/Hala-Mulki/L-HSAB-First-Arabic-Levantine-HateSpeech-Dataset)
 ```
 Mulki, H., Haddad, H., Ali, C. B., and Alshabani, H. (2019). L-hsab: A levantine twitter dataset for hate speech and abusive language. In Proceedings of the Third Workshop on Abusive Language Online, pages 111–118
 ```
 
 * For cross-domain evaluation
-..* [Deleted Comments Dataset](http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx)
+[Deleted Comments Dataset](http://alt.qcri.org/~hmubarak/offensive/AJCommentsClassification-CF.xlsx)
 ```
 Mubarak, H., Darwish, K., and Magdy, W. (2017). Abusive language detection on Arabic social media. In Proceedings of the First Workshop on Abusive Language Online,
 pages 52–56.
