@@ -17,7 +17,7 @@ The guideline is available in the `annotation_guideline` folder and can also be 
 <!-- Will be available in the proceedings of LREC2020: -->
 
 ```
-@inproceedings{shammur2020offensive,
+@inproceedings{chowdhury2020offensive,
   title={A Multi-Platform Arabic News Comment Dataset for Offensive Language Detection},
   author={Chowdhury, Shammur Absar  and Mubarak, Hamdy and Abdelali, Ahmed and Jung, Soon-gyo and Jansen, Bernard J and Salminen, Joni},
   booktitle={Proceedings of the International Conference on Language Resources and Evaluation (LREC'20)},
@@ -32,13 +32,21 @@ The input file contains have the following fields (separated by tabs), including
 
 where
 `Id` is the comment id (series)
+
 `Platform` indicates the origin of the social media comment. Values includes: Twitter, Facebook, YouTube
+
 `Comment` raw comments (anonymised for UserID and some urls)
+
 `Majority_Label` include binary labels: Non-Offensive or Offensive. The label is the final label agreed by at least 2 (out of 3) annotators
+
 `Agreement` field include values showing if there was 100% agreement between the annotator or the label was assigned by majority voting (2/3 annotator agreed).
+
 `NumOfJudgementUsed` the number indicates how many annotator's judgement was used for the majority consensus.
+
 `Total_Judgement` total number of judgement obtained from MTurk (this number also includes the rejected assignments).
+
 `Vulgar:V/HateSpeech:HS/None:-` includes the further classification (by expert) of the offensive comments, mentioning if the comment is either hate speech (HS), vulgar (V) or just offensive (-).
+
 Please note the HS can be vulgar but comments which contain vulgar language but not a hate speech is indicated by V.
 
 
