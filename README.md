@@ -1,6 +1,6 @@
 <!-- # Arabic-Offensive-Multi-Platform-SocialMedia-Comment-Dataset-->
 
-# Arabic Offensive Language Detection dataset from multiple social media comments.
+# Arabic Offensive Comments dataset from Multiple Social Media Platforms.
 
 This release includes annotated social media comment dataset with (not)offensive (OFF vs NOT_OFF) language tags for Arabic social media comments collected from three different online platforms: Twitter, Facebook and YouTube. The dataset is referred as Multi Platforms Offensive Language Dataset **(MPOLD)**.
 In addition to the offensive comments, the contents are manually annotated to analyse the distribution of hate speech (HS) and vulgar (but not hate) (V) content.
