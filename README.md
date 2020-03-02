@@ -48,7 +48,7 @@ where
 `Vulgar:V/HateSpeech:HS/None:-` includes the further classification (by expert) of the offensive comments, mentioning if the comment is either hate speech (HS), vulgar (V) or just offensive (-).
 
 Please note the HS can be vulgar but comments which contain vulgar language but not a hate speech is indicated by V.
-
+The first 500 comments were also manually checked to evaluate the performance of the annotation. Using expert annotation as reference, we observed that accuracy of the annotation is ~94%. The orange colored rows are the marked by the expert as an annotation error.
 
 ## Other Resources
 In addition to the dataset mentioned in the above paper, we also studied the use of this dataset individually or in combination with other freely available dataset available for offensive study in Arabic language.
