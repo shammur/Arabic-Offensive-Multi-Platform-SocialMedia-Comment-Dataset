@@ -25,9 +25,9 @@ The guideline is available in the `annotation_guideline` folder and can also be 
 }
 ```
 ## Sanple Data Reader
-```
-https://colab.research.google.com/drive/1vFfgdVlqsCvQnTT1LYj1K-EfIdBObtVG?usp=sharing
-```
+Data Reader (https://colab.research.google.com/drive/1vFfgdVlqsCvQnTT1LYj1K-EfIdBObtVG?usp=sharing)
+
+
 ## Data Format
 The input file contains have the following fields (separated by tabs), including
 `<Id>\t<Platform>\t<Comment>\t<Majority_Label>\t<Agreement>\t<NumOfJudgementUsed>\t<Total_Judgement>\t<Vulgar:V/HateSpeech:HS/None:->`
