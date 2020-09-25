@@ -24,8 +24,8 @@ The guideline is available in the `annotation_guideline` folder and can also be 
   year={2020}
 }
 ```
-## Sanple Data Reader
-Data Reader (https://colab.research.google.com/drive/1vFfgdVlqsCvQnTT1LYj1K-EfIdBObtVG?usp=sharing)
+## Sample Data Reader
+[Data Reader] (https://colab.research.google.com/drive/1vFfgdVlqsCvQnTT1LYj1K-EfIdBObtVG?usp=sharing)
 
 
 ## Data Format
